@@ -200,3 +200,28 @@ console.log(binarySearchRecursion([2, 3, 14, 18, 55, 66],33))
 
 
 ```
+
+How long do each of these operations take?
+
+
+4.5
+
+Printing the value of each element in an array.
+
+-- O(n)
+
+Doubling the value of each element in an array
+
+-- O(n)
+
+Doubling the value of just the first element in the array.
+
+-- O(1)
+
+Creating a multiplication table with all the elements in an array. So if your array is [2, 3, 7, 8, 10], you first multiple every element by 2, then every element by 3, then by 7 and so on. 
+
+-- we have each element is being touched twice... O(n) stack * O(n) items...so O(nˆ2)
+
+
+
+
