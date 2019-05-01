@@ -34,7 +34,7 @@ def bye():
 
 ```
 
-1. When you invoke a function, your computer allocates a box for that function call. Suppose you call `greet("Maggie)`
+1. When you invoke a function, your computer allocates a box for that function call. Suppose you call `greet("Maggie")`
 2. Let's use the memory. The variable `name` is set to `Maggie`. That needs to be saved in memory.
 
 ```md

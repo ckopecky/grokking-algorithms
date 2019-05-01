@@ -11,7 +11,7 @@ Every recursive function has two parts: the __base__ case and the __recursive__ 
 # Python recursion
 
 def countdown(num):
-    if num === 0:
+    if num == 0:
         print("Blastoff!")
     else:
         print(num)
