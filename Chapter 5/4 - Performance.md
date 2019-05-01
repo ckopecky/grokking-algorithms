@@ -1,0 +1,1 @@
+In the average case, hash tables take `O(1)` runtime. That means, it doesn't matter how big the hash is, it will always take the same amount of time whether it has 1 element or 1,000,000,000 elements. 
